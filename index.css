@@ -4,8 +4,10 @@
   
   body {
     font-family: 'Roboto', sans-serif;
-    background-color: rgb(135, 209, 135);
-    color: rgb(13, 94, 13);
+    background: #636363;  
+    background: -webkit-linear-gradient(to right, #a2ab58, #636363);   
+    background: linear-gradient(to right, #a2ab58, #636363); 
+
   }
   
   button, input[type="text"] {
